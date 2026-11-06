@@ -1,0 +1,32 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "C:/Users/mrros/CLionProjects/Lab_3/cmake-build-debug",
+	"dir-cur-src" : "C:/Users/mrros/CLionProjects/Lab_3",
+	"dir-top-bld" : "C:/Users/mrros/CLionProjects/Lab_3/cmake-build-debug",
+	"dir-top-src" : "C:/Users/mrros/CLionProjects/Lab_3",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/mrros/CLionProjects/Lab_3/cmake-build-debug/CMakeFiles/Lab_3.dir",
+	"sources" : 
+	{
+		"CMakeFiles/Lab_3.dir/header.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/mrros/CLionProjects/Lab_3/header.cpp"
+		},
+		"CMakeFiles/Lab_3.dir/main.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/mrros/CLionProjects/Lab_3/main.cpp"
+		}
+	}
+}
